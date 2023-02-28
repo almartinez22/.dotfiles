@@ -1,0 +1,2 @@
+Alexander Jeremiah Martinez
+I made a vim file then set a few rules to create a desired template. Then once I created the template I moved the entire file to my desktop and renamed it at the same time. After that, I used vim again to write my name and this summary to submit it online.
